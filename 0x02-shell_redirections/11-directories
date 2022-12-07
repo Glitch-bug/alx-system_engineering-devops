@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -Rad */ ./ | wc -l
+find -type d | wc -l
+
